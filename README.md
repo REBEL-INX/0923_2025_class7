@@ -22,6 +22,8 @@ mkdir
 touch
 ```
 
+### Notes for GitHub Actions
+
 ```
 …or create a new repository on the command line
 echo "# <github-repo.com>" >> README.md
